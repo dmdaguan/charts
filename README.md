@@ -32,6 +32,8 @@
     </a>
 </p>
 
+一个简单、响应式、现代的SVG图表组件,现代、直观且反应灵敏的图表库，无任何依赖。
+
 ### Contents
 * [Installation](#installation)
 * [Usage](#usage)
